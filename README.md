@@ -6,14 +6,14 @@ RCDT (Recordatorio de Cumpleaños De Tus [Amigos/Familiares/Contactos]) es una a
 
 *   **Gestión de Cumpleaños:** Añade, edita y elimina cumpleaños fácilmente, incluyendo nombre, fecha y notas opcionales.
 *   **Lista de Próximos Cumpleaños:** Visualiza los próximos cumpleaños de forma clara y organizada.
-*   **Notificaciones:** Recibe recordatorios para los cumpleaños que se aproximan (funcionalidad de notificación por implementar/configurar).
+*   **Notificaciones:** Recibe recordatorios para los cumpleaños que se aproximan un dia antes.
 *   **Perfil de Usuario:**
     *   Visualiza tu nombre de usuario y correo electrónico.
     *   Cambia tu contraseña de forma segura.
     *   Cierra sesión.
 *   **Integración con Firebase:**
     *   Autenticación de usuarios (registro, inicio de sesión, cambio de contraseña).
-    *   Almacenamiento de datos de cumpleaños y perfiles de usuario (usando Firebase Firestore o Realtime Database).
+    *   Almacenamiento de datos de cumpleaños y perfiles de usuario (usando Firebase Firestore).
 *   **Interfaz de Usuario Moderna:**
     *   Diseño basado en Material Components.
     *   Soporte completo para **Modo Oscuro** con elegantes acentos en amarillo brillante.
@@ -50,9 +50,9 @@ RCDT (Recordatorio de Cumpleaños De Tus [Amigos/Familiares/Contactos]) es una a
 
 1.  **Registro/Inicio de Sesión:** Al abrir la aplicación por primera vez, regístrate con un correo y contraseña, o inicia sesión si ya tienes una cuenta.
 2.  **Pantalla Principal:** (Diseño base) Aquí se listarán los cumpleaños que hayas añadido.
-3.  **Añadir Cumpleaños:** (Funcionalidad por implementar completamente) Utiliza la opción para añadir nuevos cumpleaños, especificando nombre, fecha y notas.
+3.  **Añadir Cumpleaños:** Utiliza la opción para añadir nuevos cumpleaños, especificando nombre, fecha y notas adicionales como info de sus hogares recibidos.
 4.  **Pantalla de Perfil:**
-    *   Accede desde el menú o un botón dedicado.
+    *   Accede desde el menú.
     *   Visualiza tu información.
     *   Utiliza los campos provistos para cambiar tu contraseña actual por una nueva.
     *   Cierra tu sesión actual.
@@ -64,4 +64,4 @@ La aplicación utiliza un sistema de temas (`themes.xml`) para definir la aparie
 *   **Campos de Texto:** Estilizados para ser visibles en modo oscuro, con bordes gris claro en estado no enfocado y bordes amarillos cuando están enfocados. El texto de ayuda (hint) es gris claro y el texto ingresado es blanco. El icono para mostrar/ocultar contraseña es blanco.
 *   **Tarjetas (Cards):** En modo oscuro, tienen fondo negro con bordes amarillos.
 
-Este proyecto está listo para continuar su desarrollo y añadir más funcionalidades épicas.
+Este proyecto está listo para continuar su desarrollo y añadir más funcionalidades.
