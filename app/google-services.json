@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "829760425331",
+    "firebase_url": "https://cumple-bf966-default-rtdb.firebaseio.com",
+    "project_id": "cumple-bf966",
+    "storage_bucket": "cumple-bf966.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:829760425331:android:5424be4a95eb5534868906",
+        "android_client_info": {
+          "package_name": "com.cumple.cumple"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXBF7o1315eR7KkWs-6HfuuRmTpGKVTdc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

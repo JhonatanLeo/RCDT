@@ -1,0 +1,153 @@
+<resources>
+    <string name="app_name">Recordatorio de Cumpleaños</string>
+
+    <!-- General -->
+    <string name="app_logo">Logo de la aplicación</string>
+    <string name="empty_state_image">Imagen de estado vacío</string>
+    <string name="arrow_right">Flecha derecha</string>
+    <string name="phone">Teléfono</string>
+    <string name="notes">Notas</string>
+
+    <!-- Login & Register -->
+    <string name="login">Iniciar sesión</string>
+    <string name="login_title">Iniciar sesión</string>
+    <string name="login_subtitle">Ingresa tus credenciales para acceder a tu cuenta</string>
+    <string name="login_button">Iniciar sesión</string>
+    <string name="login_link">Iniciar sesión</string>
+    <string name="login_prompt">¿Ya tienes una cuenta?</string>
+    <string name="register">Registrarse</string>
+    <string name="register_title">Crear cuenta</string>
+    <string name="register_subtitle">Regístrate para gestionar tus recordatorios de cumpleaños</string>
+    <string name="register_button">Registrarse</string>
+    <string name="register_link">Registrarse</string>
+    <string name="register_prompt">¿No tienes una cuenta?</string>
+    <string name="dont_have_account">¿No tienes una cuenta? Regístrate</string>
+    <string name="already_have_account">¿Ya tienes una cuenta? Inicia sesión</string>
+    <string name="email">Correo electrónico</string>
+    <string name="password">Contraseña</string>
+    <string name="confirm_password">Confirmar contraseña</string>
+    <string name="name">Nombre</string>
+    <string name="logging_in">Iniciando sesión…</string>
+    <string name="registering">Registrando…</string>
+    <string name="auth_failed">Autenticación fallida</string>
+    <string name="passwords_dont_match">Las contraseñas no coinciden</string>
+    <string name="email_already_in_use">Este correo ya está en uso</string>
+    <string name="weak_password">La contraseña debe tener al menos 6 caracteres</string>
+    <string name="invalid_email">Correo electrónico inválido</string>
+    <string name="user_not_found">Usuario no encontrado</string>
+    <string name="wrong_password">Contraseña incorrecta</string>
+
+    <!-- Main Dashboard -->
+    <string name="all">Todos</string>
+    <string name="upcoming">Próximos</string>
+    <string name="today">Hoy</string>
+    <string name="tab_all">Todos</string>
+    <string name="tab_upcoming">Próximos</string>
+    <string name="tab_today">Hoy</string>
+    <string name="search">Buscar</string>
+    <string name="search_hint">Buscar por nombre o teléfono…</string>
+    <string name="no_birthdays">No hay cumpleaños registrados</string>
+    <string name="add_first_birthday">Toca el botón + para agregar tu primer recordatorio de cumpleaños</string>
+    <string name="add_birthday">Agregar cumpleaños</string>
+    <string name="edit_birthday">Editar cumpleaños</string>
+    <string name="delete_birthday">Eliminar cumpleaños</string>
+    <string name="test_notification">Probar notificación</string>
+    <string name="loading">Cargando…</string>
+    <string name="error_loading">Error al cargar datos</string>
+    <string name="retry">Reintentar</string>
+
+    <!-- Birthday Details -->
+    <string name="birthday_date">Fecha de cumpleaños</string>
+    <string name="location">Ubicación</string>
+    <string name="area">Área construida</string>
+    <string name="area_hint">Área construida (m²)</string>
+    <string name="acquisition_month">Mes de adquisición</string>
+    <string name="days_left_today">¡Hoy es su cumpleaños!</string>
+    <string name="days_left_tomorrow">¡Mañana es su cumpleaños!</string>
+    <string name="days_left_format">Faltan %d días</string>
+
+    <!-- Add/Edit Birthday -->
+    <string name="save">Guardar</string>
+    <string name="save_button">Guardar</string>
+    <string name="cancel">Cancelar</string>
+    <string name="cancel_button">Cancelar</string>
+    <string name="delete">Eliminar</string>
+    <string name="delete_button">Eliminar</string>
+    <string name="birthday_added">Cumpleaños agregado correctamente</string>
+    <string name="birthday_updated">Cumpleaños actualizado correctamente</string>
+    <string name="birthday_deleted">Cumpleaños eliminado correctamente</string>
+    <string name="error_empty_fields">Por favor completa todos los campos</string>
+    <string name="confirm_delete">¿Estás seguro de que deseas eliminar este cumpleaños?</string>
+    <string name="yes">Sí</string>
+    <string name="no">No</string>
+    <string name="saving">Guardando…</string>
+    <string name="deleting">Eliminando…</string>
+
+    <!-- Profile -->
+    <string name="profile">Perfil</string>
+    <string name="profile_title">Mi perfil</string>
+    <string name="profile_name_placeholder">Nombre de Usuario</string>
+    <string name="profile_email_placeholder">usuario@ejemplo.com</string>
+    <string name="user_information">Información del Usuario</string>
+    <string name="notifications">Notificaciones</string>
+    <string name="change_password">Cambiar contraseña</string>
+    <string name="current_password">Contraseña actual</string>
+    <string name="new_password">Nueva contraseña</string>
+    <string name="confirm_new_password">Confirmar nueva contraseña</string>
+    <string name="password_changed">Contraseña cambiada correctamente</string>
+    <string name="error_password_change">Error al cambiar la contraseña</string>
+    <string name="error_password_change_failed">Error: No se pudo cambiar la contraseña</string>
+    <string name="logout">Cerrar sesión</string>
+    <string name="logout_button">Cerrar sesión</string>
+    <string name="changing_password">Cambiando contraseña…</string>
+    <string name="password_too_short">La contraseña debe tener al menos 6 caracteres</string>
+    <string name="passwords_not_match">Las contraseñas no coinciden</string>
+    <string name="wrong_current_password">La contraseña actual es incorrecta</string>
+
+    <!-- Notifications -->
+    <string name="notification_title">Recordatorio de cumpleaños</string>
+    <string name="notification_message">Mañana es el cumpleaños de %s</string>
+    <string name="notification_channel_name">Recordatorios de cumpleaños</string>
+    <string name="notification_channel_description">Notificaciones para recordatorios de cumpleaños</string>
+    <string name="test_notification_sent">Notificación de prueba enviada</string>
+    <string name="enable_notification">Habilitar notificación</string>
+    <string name="mes_adquisicion">Mes de Adquisición</string>
+    <string name="date">Fecha</string>
+    <string name="error_invalid_number" />
+
+    <!-- Months -->
+    <string-array name="months">
+        <item>Enero</item>
+        <item>Febrero</item>
+        <item>Marzo</item>
+        <item>Abril</item>
+        <item>Mayo</item>
+        <item>Junio</item>
+        <item>Julio</item>
+        <item>Agosto</item>
+        <item>Septiembre</item>
+        <item>Octubre</item>
+        <item>Noviembre</item>
+        <item>Diciembre</item>
+    </string-array>
+
+
+    <!-- Actividad principal -->
+    <string name="empty_state">No hay recordatorios para mostrar</string>
+
+    <!-- Menú principal -->
+    <string name="action_profile">Perfil</string>
+    <string name="action_logout">Cerrar sesión</string>
+    <string name="action_search">Buscar</string>
+
+    <!-- Actividad de agregar/editar cumpleaños -->
+    <!-- Notificaciones -->
+    <string name="test_notification_title">Prueba de Notificación</string>
+
+    <!-- Errores -->
+    <string name="error_invalid_email">Correo electrónico inválido</string>
+    <string name="error_password_mismatch">Las contraseñas no coinciden</string>
+    <string name="error_password_length">La contraseña debe tener al menos 6 caracteres</string>
+
+
+</resources>

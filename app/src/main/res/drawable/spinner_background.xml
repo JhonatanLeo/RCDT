@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:drawable="@android:color/darker_gray" /> <!-- Fondo de color gris oscuro -->
+    <item>
+        <shape xmlns:android="http://schemas.android.com/apk/res/android">
+            <solid android:color="@color/black"/> <!-- Color de fondo: oscuro -->
+            <corners android:radius="8dp"/> <!-- Bordes redondeados -->
+            <stroke
+                android:color="@color/yellow_bright"
+            android:width="1dp"/>
+        </shape>
+    </item>
+</layer-list>

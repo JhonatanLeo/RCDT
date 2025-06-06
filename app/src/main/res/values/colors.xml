@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Nueva paleta épica: Negro, Blanco y Amarillo Brillante -->
+    <color name="colorPrimary">#000000</color>
+    <color name="colorPrimaryDark">#000000</color>
+    <color name="colorPrimaryLight">#333333</color>
+    <color name="colorAccent">#FFE500</color>
+
+    <!-- Alias para compatibilidad con themes.xml -->
+    <color name="primary">#000000</color>
+    <color name="primary_dark">#000000</color>
+    <color name="primary_light">#333333</color>
+    <color name="accent">#FFE500</color>
+    <color name="accent_dark">#FFCC00</color>
+    <color name="card_background">#FFFFFF</color>
+
+    <!-- Text Colors -->
+    <color name="textPrimary">#FFFFFF</color>
+    <color name="textSecondary">#CCCCCC</color>
+    <color name="textHint">#888888</color>
+    <color name="text_primary">#FFFFFF</color>
+    
+    <!-- Nuevos colores para la interfaz épica -->
+    <color name="black">#000000</color>
+    <color name="white">#FFFFFF</color>
+    <color name="yellow_bright">#FFE500</color>
+    <color name="yellow_light">#FFF176</color>
+    <color name="dark_gray">#333333</color>
+    <color name="light_gray">#CCCCCC</color>
+    <color name="btn_text">#000000</color>
+    <color name="background_dark">#121212</color>
+    <color name="text_secondary">#757575</color>
+
+    <!-- Background Colors -->
+    <color name="background">#FAFAFA</color>
+    <color name="cardBackground">#FFFFFF</color>
+    <color name="divider">#E0E0E0</color>
+    <color name="cardStroke">#E0E0E0</color>
+
+    <!-- Priority Colors -->
+    <color name="priorityHigh">#F44336</color>
+    <color name="priorityMedium">#FF9800</color>
+    <color name="priorityLow">#4CAF50</color>
+
+    <!-- Status Colors -->
+    <color name="colorSuccess">#4CAF50</color>
+    <color name="colorError">#F44336</color>
+    <color name="colorWarning">#FFC107</color>
+
+    <!-- System Colors -->
+    <color name="purple_200">#BB86FC</color>
+    <color name="purple_500">#303030</color>
+    <color name="purple_700">#303030</color>
+    <color name="teal_200">#03DAC5</color>
+    <color name="teal_700">#018786</color>
+</resources>
